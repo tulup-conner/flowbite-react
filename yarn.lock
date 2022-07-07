@@ -13830,10 +13830,10 @@ react-icons@^4.3.1:
   resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-4.3.1.tgz#2fa92aebbbc71f43d2db2ed1aed07361124e91ca"
   integrity sha512-cB10MXLTs3gVuXimblAdI71jrJx8njrJZmNMEMC+sQu5B/BIOmlsAjskdqpn81y8UBVEGuHODd7/ci5DvoSzTQ==
 
-react-indiana-drag-scroll@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/react-indiana-drag-scroll/-/react-indiana-drag-scroll-2.1.0.tgz#37654eae8caced01cdecc8bce55f0382871a021d"
-  integrity sha512-Tj94Dv9PkmoKqc9nxK/dzwhtE8pP7NTxmeHqkD8KN0zad1NNE+/JsvRcK4EdqE6CdA2nMESzqPMvv1AzRXdBew==
+react-indiana-drag-scroll@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/react-indiana-drag-scroll/-/react-indiana-drag-scroll-2.2.0.tgz#657e14bbdf4888cc738e9fa8dc4384d76c348c0b"
+  integrity sha512-+W/3B2OQV0FrbdnsoIo4dww/xpH0MUQJz6ziQb7H+oBko3OCbXuzDFYnho6v6yhGrYDNWYPuFUewb89IONEl/A==
   dependencies:
     classnames "^2.2.6"
     debounce "^1.2.0"
